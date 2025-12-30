@@ -1,0 +1,9 @@
+
+{
+  "name": "MarTomeEstilista",
+  "description": "A premium hair salon management application featuring automated booking, service catalog, and an AI-powered style consultant.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
